@@ -1,4 +1,4 @@
-# DeepFeat : Deep Learning for Underwater AUV Feature Extraction And Matching
+# Mafkin_Robotics_DeepFeat
 
 ## Description
 DeepFeat is a repository that aims to design, analyze and test existing as well as novel alogrithms for keypoint extraction and description using deep learning model. These experiments are a part of a larger underwater AUV project 
